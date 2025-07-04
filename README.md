@@ -226,6 +226,7 @@ class Config:
 **Q: "600개 데이터가 모두 수집되지 않아요"**
 - A: 키움 API 요청 제한을 확인하고, 네트워크 상태를 점검하세요.
 
+
 ### 🐛 버그 신고
 이슈가 발생하면 [GitHub Issues](https://github.com/minsic84/stock-trading-system/issues)에 신고해주세요.
 
@@ -238,3 +239,4 @@ class Config:
 ⭐ **이 프로젝트가 도움이 되었다면 Star를 눌러주세요!** ⭐
 
 🚀 **Happy Trading!** 📈
+
